@@ -14,6 +14,20 @@
 
 * release 2.1.0 ([165d011](https://github.com/diegofesanto/functions-csharp/commit/165d0118e25966098e6df8818ce9a4a3cb9f7096))
 
+## [2.1.0](https://github.com/diegofesanto/functions-csharp/compare/v2.1.0...v2.1.0) (2025-04-26)
+
+
+### Features
+
+* implement partially the region ([91a4516](https://github.com/diegofesanto/functions-csharp/commit/91a45164d4df2341a4b4abdfe27be9f79dcf9056))
+* implement region option ([6e1a601](https://github.com/diegofesanto/functions-csharp/commit/6e1a601fc65e7359925dc1d6af924d083da4dde4))
+* insert option to choose http method ([92061e6](https://github.com/diegofesanto/functions-csharp/commit/92061e6259ae07bc4048b05af51191b3a1831d87))
+
+
+### Miscellaneous Chores
+
+* release 2.1.0 ([165d011](https://github.com/diegofesanto/functions-csharp/commit/165d0118e25966098e6df8818ce9a4a3cb9f7096))
+
 ## [2.1.0](https://github.com/diegofesanto/functions-csharp/compare/v2.0.0...v2.1.0) (2025-04-26)
 
 
