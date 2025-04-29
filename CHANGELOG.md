@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.4](https://github.com/diegofesanto/functions-csharp/compare/v2.1.3...v2.1.4) (2025-04-29)
+
+
+### Miscellaneous Chores
+
+* **master:** release 2.1.4 ([a95fb71](https://github.com/diegofesanto/functions-csharp/commit/a95fb7176ac1a55354e88711b2dbdbdfe27c7521))
+
 ## [2.1.3](https://github.com/diegofesanto/functions-csharp/compare/v2.1.0...v2.1.3) (2025-04-29)
 
 
