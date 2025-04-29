@@ -7,10 +7,6 @@ on:
     types:
       - completed
 
-#  push:
-#    branches:
-#      - release/* # Default release branch
-
 jobs:
   publish:
     if: ${{ startsWith(github.event.head_commit.message, 'chore(main)') && github.ref == 'refs/heads/main' && github.event_name == 'push' && github.event.workflow_run.conclusion == 'success' }}
