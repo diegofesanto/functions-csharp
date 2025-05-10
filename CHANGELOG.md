@@ -1,4 +1,11 @@
-﻿# Changelog
+# Changelog
+
+## [2.2.0](https://github.com/diegofesanto/functions-csharp/compare/v2.0.0...v2.2.0) (2025-05-10)
+
+
+### Miscellaneous Chores
+
+* release 2.2.0 ([48df3e6](https://github.com/diegofesanto/functions-csharp/commit/48df3e6f06f1edf2defdd4f4e7649720d775fab9))
 
 ## 2.0.0 - 04-21-2024
 
